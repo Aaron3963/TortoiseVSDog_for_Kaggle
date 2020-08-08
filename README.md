@@ -12,7 +12,7 @@ Screenshot when training the model:<br>
 
 ## Results
 After training, you can use the test.py file to see the classification results.<br>
-Interface when detecting:
+Interface when detecting:<br>
 ![Screenshot when detecting](https://github.com/Aaron3963/TortoiseVSDog_for_Kaggle/blob/master/imgFolder/Dog.jpg)
 ![Screenshot when detecting](https://github.com/Aaron3963/TortoiseVSDog_for_Kaggle/blob/master/imgFolder/Tortoise.jpg)
 
